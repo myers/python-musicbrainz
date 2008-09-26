@@ -1,0 +1,29 @@
+Metadata-Version: 1.0
+Name: python-musicbrainz
+Version: 1.0b1
+Summary: A wrapper for the MusicBrainz libraries
+Home-page: http://icepick.info/projects/python-musicbrainz/
+Author: Myers W. Carpenter
+Author-email: icepick@icepick.info
+License: LGPL
+Download-URL: http://icepick.info/projects/python-musicbrainz/
+Description: The MusicBrainz client library is a development library geared towards
+        developers who wish to add MusicBrainz lookup capabilities to their
+        applications.
+        
+        The client library includes the following features:
+        
+        * Lookup Audio CD metadata using CD Index Discids
+        * Calculate Relatable TRM acoustic fingerprints
+        * Search for artist/album/track titles
+        * Lookup metadata by name, TRM ids or MusicBrainz Ids
+        
+Platform: win32 posix
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Plugins
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Programming Language :: Python
+Classifier: Topic :: Utilities
+Classifier: Topic :: Communications :: File Sharing
+Classifier: Topic :: Multimedia :: Sound/Audio :: Analysis
